@@ -1,0 +1,1 @@
+print("Vladyslav Kostiuk, IPZ-2")
